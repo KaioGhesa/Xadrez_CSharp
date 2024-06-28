@@ -1,0 +1,21 @@
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.AssemblyInfo.cs
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\bin\Debug\net8.0\Xadrez_Game.exe
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\bin\Debug\net8.0\Xadrez_Game.deps.json
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\bin\Debug\net8.0\Xadrez_Game.runtimeconfig.json
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\bin\Debug\net8.0\Xadrez_Game.dll
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\bin\Debug\net8.0\Xadrez_Game.pdb
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.dll
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\refint\Xadrez_Game.dll
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.pdb
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.genruntimeconfig.cache
+C:\Users\User\Downloads\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\ref\Xadrez_Game.dll
+C:\Users\Meu Computador\Downloads\Xadrez_C-main\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Downloads\Xadrez_C-main\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Downloads\Xadrez_C-main\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.AssemblyInfo.cs
+C:\Users\Meu Computador\Downloads\Xadrez_C-main\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Downloads\Xadrez_C-main\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.dll
+C:\Users\Meu Computador\Downloads\Xadrez_C-main\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\refint\Xadrez_Game.dll
+C:\Users\Meu Computador\Downloads\Xadrez_C-main\Xadrez\Xadrez_Game\Xadrez_Game\obj\Debug\net8.0\Xadrez_Game.pdb
